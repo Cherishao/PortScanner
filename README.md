@@ -2,7 +2,7 @@
 
 An easy to use Python package that could perform port scanning conveniently.
 
-An output example is showed as following:
+An output example is showed as following:`https://github.com/Cherishao/PortScanner.git`
 
 
  ![ScanResultExam](http://oy3mfxixl.bkt.clouddn.com/Port-scan.gif)
