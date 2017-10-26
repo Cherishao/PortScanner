@@ -5,11 +5,11 @@ An easy to use Python package that could perform port scanning conveniently.
 An output example is showed as following:
 
 
- ![ScanResultExam](img\ScanResultExam.png)
+ ![ScanResultExam](http://oy3mfxixl.bkt.clouddn.com/Port-scan.gif)
 
 Map：Scan_content and Scan_port
 
- ![Port-scan](img\Port-scan.gif)
+ ![Port-scan](http://oy3mfxixl.bkt.clouddn.com/ScanResultExam.png)
 
 ## Installation  
 
